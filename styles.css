@@ -1,0 +1,40 @@
+body {
+  background: #212020;
+  color: #fff;
+}
+
+.slogan{
+  width: 60vw;
+  height: 80px;
+  background: #8bc34a;
+  color: #fff;
+  border: 1px solid tranparent;
+  border-radius: 5px;
+  position: absolute;
+  left: 20%;
+  top: 35%;
+  text-align: center;
+  padding-top: 30px;
+}
+
+.message{
+  background: #FF9800;
+  position: absolute;
+  top: 48%;
+  left: 35%;
+  width: 60vw;
+  height: 70px;
+  border: 1px solid transparent;
+  border-radius: 5px;
+  padding-top: 35px;
+  text-align: center;
+}
+
+.footerCopyright{
+  color: #fff;
+  position: fixed;
+  font-size: 14px;
+  font-weight: bold;
+  bottom: 10px;
+  left: 40%;
+}
